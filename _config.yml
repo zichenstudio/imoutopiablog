@@ -9,7 +9,7 @@ date_format: "%Y/%m/%d-%a"
 icon: "/favicon.ico"
 
 # 背景图片URL
-background-url: "/bg.jpg"
+background-url: "https://zichenstudio.github.io/imoutopiablog/bg.jpg"
 background-source: "Background photo by <a href='https://space.bilibili.com/1740643474'>imoutopia</a> on <a href='https://www.bilibili.com/'>BiliBili</a>"
 
 # CC-BY license
