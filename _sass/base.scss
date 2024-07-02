@@ -101,3 +101,11 @@ footer {
 pre, code {
   font-family: Hack, "JetBrains Mono", "Fira Code", monospace;
 }
+
+.warning {
+  background-color: rgba($color: #f9a800, $alpha: 0.7);
+  padding: 10px;
+  border: 5px solid red;
+  border-radius: 25px;
+}
+

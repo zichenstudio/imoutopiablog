@@ -1,6 +1,7 @@
 title: imoutopia
 baseurl: ""
-description: "imoutopia 伊莫托邦 伊莫 Blog Zichen"
+description: "imoutopia的个人文学作品合集网站，包含几乎所有未遗失文章。"
+keywords: "imoutopia, 伊莫托邦, 伊莫, Blog, 写作, 文学, 博客"
 
 # 日期格式化
 date_format: "%Y/%m/%d-%a"
@@ -22,7 +23,10 @@ ccbync: 'This work is licensed under CC BY-NC 4.0. To view a copy of this licens
 ccbyncsa: 'This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a>'
 
 # R15 tips
-r15: '<p style="color: #f00"><strong>本内容可能不适合未满15周岁读者阅读</strong>本内容可能包含暴力、粗口、血腥、恐怖、惊悚、性暗示、药物滥用等内容。若无法保持理智，请不要继续阅读。我们不会对任何人阅读此内容而造成的任何后果负责。</p>'
+r15: '<p style="color: #f00" class="warning"><strong>限制级内容提示</strong><br>本内容可能不适合未满15周岁读者阅读。本内容可能包含暴力、粗口、血腥、恐怖、惊悚、性暗示、药物滥用等内容。若无法保持理智，请不要继续阅读。阅读本内容即视为阅读者已理解并接受此提示，我们不会对任何人阅读此内容而造成的任何后果负责。</p>'
+
+# fabricated tips
+fabricated: '<p style="color: #f00" class="warning"><strong>内容虚构声明</strong><br>本内容中一切国家、人物、事件、知识等内容均为虚构。请在保持理智下冷静阅读，若无法保持理智，请不要继续阅读。阅读本内容即视为阅读者已理解并接受此提示，我们不会对任何人阅读此内容而造成的任何后果负责。</p>'
 
 # Build settings
 markdown: kramdown
