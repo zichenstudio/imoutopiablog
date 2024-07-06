@@ -28,6 +28,9 @@ r15: '<p style="color: #f00" class="warning"><strong>限制级内容提示</stro
 # fabricated tips
 fabricated: '<p style="color: #f00" class="warning"><strong>内容虚构声明</strong><br>本内容中一切国家、人物、事件、知识等内容均为虚构。请在保持理智下冷静阅读，若无法保持理智，请不要继续阅读。阅读本内容即视为阅读者已理解并接受此提示，我们不会对任何人阅读此内容而造成的任何后果负责。</p>'
 
+# warnagain tips
+warnagain: '<p style="color: #f00" class="warning"><strong>再次警告</strong><br>再次提示并警告您，请务必仔细阅读之前的提示或警告等内容，如果您对提示或警告等有任何不确定、疑问或不理解等，请立刻停止阅读并退出。阅读本内容即视为阅读者已理解并接受此提示，我们不会对任何人阅读此内容而造成的任何后果负责。</p>'
+
 # Build settings
 markdown: kramdown
 sass:
