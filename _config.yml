@@ -42,5 +42,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENSE 
+  - LICENSE
+
+url: "https://zichenstudio.github.io/imoutopiablog"
+
+plugins:
+  - jekyll-sitemap
 
