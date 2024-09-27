@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 9月27日致
