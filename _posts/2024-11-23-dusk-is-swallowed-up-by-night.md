@@ -2,6 +2,7 @@
 layout: post
 title: 黄昏被夜晚吞噬
 tags: 原创 「在那个夏天忘记你」
+reading_time_seconds: 190
 ---
 
 # 黄昏被夜晚吞噬

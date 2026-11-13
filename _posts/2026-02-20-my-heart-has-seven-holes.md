@@ -2,6 +2,7 @@
 layout: post
 title: 我的心有七个孔
 tags: 原创 「在那个夏天忘记你」
+reading_time_seconds: 462
 ---
 
 # 我的心有七个孔

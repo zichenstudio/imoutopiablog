@@ -2,6 +2,7 @@
 layout: post
 title: DER BAKA BEIM DATE
 tags: 原创 「少女之韵」
+reading_time_seconds: 149
 ---
 
 # DER BAKA BEIM DATE
